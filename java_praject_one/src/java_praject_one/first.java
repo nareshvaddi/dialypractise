@@ -6,6 +6,7 @@ public class first {
 			System.out.println("Main method");
 
 			System.out.println("Main method");
+			
 		}
 
 }
